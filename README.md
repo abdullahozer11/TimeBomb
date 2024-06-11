@@ -1,6 +1,15 @@
 # TimeBomb
+```
+___________.__              __________              ___.
+\__    ___/|__| _____   ____\______   \ ____   _____\_ |__
+  |    |   |  |/     \_/ __ \|    |  _//  _ \ /     \| __ \
+  |    |   |  |  Y Y  \  ___/|    |   (  <_> )  Y Y  \ \_\ \
+  |____|   |__|__|_|  /\___  >______  /\____/|__|_|  /___  /
+                    \/     \/       \/             \/    \/
+```
 ## Overview
 TimeBomb is a simple and customizable timer script written in Bash. It allows you to set a timer with a specified duration and an optional custom message that will be displayed when the timer goes off. Additionally, the script provides a visual progress bar and desktop notification using the notify-send command.
+
 
 ## Features
 - Customizable timer duration.
